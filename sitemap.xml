@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://koniture01.co.kr/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-01.jpg</image:loc>
+      <image:title>이사 후 드레스룸 붙박이장 재설치</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-02.jpg</image:loc>
+      <image:title>루버도어 5도어 붙박이장 이전설치</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-03.jpg</image:loc>
+      <image:title>유광 화이트 붙박이장 구조변경</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-04.jpg</image:loc>
+      <image:title>코너 거울도어 붙박이장 이전설치</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-05.jpg</image:loc>
+      <image:title>ㄱ자 대형 드레스룸 구조변경</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-06.jpg</image:loc>
+      <image:title>오픈행거·파우더장 붙박이장 이전설치</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-07.jpg</image:loc>
+      <image:title>무광 화이트 6도어 붙박이장 이전설치</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://koniture01.co.kr/img/case-08.jpg</image:loc>
+      <image:title>코너 거울도어 안방 붙박이장 이전설치</image:title>
+    </image:image>
+  </url>
+</urlset>
