@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://koniture01.co.kr/sitemap.xml
+Sitemap: https://koniture01.co.kr/sitemap.xml
